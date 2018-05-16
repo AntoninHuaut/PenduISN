@@ -1,1 +1,2 @@
-# PenduISN
+# Pendu ISN
+Projet ISN de BAC
